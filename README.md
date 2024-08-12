@@ -1,4 +1,4 @@
-**Image Processing: Histogram Equalization**
+***Image Processing: Histogram Equalization***
 
 **Overview**
 
@@ -41,5 +41,7 @@ example_image.jpg(grayscale image)
 **Benchmarks**
 
 Coming soon!
+
 Contributing
+
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
